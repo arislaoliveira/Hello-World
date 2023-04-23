@@ -1,5 +1,5 @@
 # Hello, World!
- Primeiro repositório do curso de Git e GitHub
+ Primeiro repositório do curso de Git e GitHub.
 
  Repositório criado para a aula de Git e GitHub oferecida pelo canal Curso em Vídeo. 
 
